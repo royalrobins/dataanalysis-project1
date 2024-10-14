@@ -1,1 +1,0 @@
-Prompt: Using the Microsoft AdventureWorks sample dataset, write a SQL query to find the relationship between a product's standard cost of production and its list price based on product model. Once the data is gathered, import it into Excel to find the price increase/decrease in percentage format from standard cost of production to list price.
