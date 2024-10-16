@@ -24,7 +24,7 @@ After the successful import into Power BI, I checked to ensure the data loaded w
 
 <img width="544" alt="image" src="https://github.com/user-attachments/assets/8d45d153-f7b0-4147-b1f8-99d1a6ddac05">
 
-From this point, I created a semi-responsive dashboard with the responsive part being an AI Q7A section that users can use to find info such as the minimum/maximum lst price or standard cost. Since this was a fairly simple prompt, I didn't include other AI tools such as the Key Influencers option. However, I proceeded to add a pie chart to showcase the percent increase from standard cost to list price based on the product model ID as well as bar graph to give a visual comparison of the standard cost & list price with standard cost being a normal shade of blue and list price being a darker shade of blue.
+From this point, I created a semi-responsive dashboard with the responsive part being an AI Q&A section that users can use to find info such as the minimum/maximum lst price or standard cost. Since this was a fairly simple prompt, I didn't include other AI tools such as the Key Influencers option. However, I proceeded to add a pie chart to showcase the percent increase from standard cost to list price based on the product model ID as well as bar graph to give a visual comparison of the standard cost & list price with standard cost being a normal shade of blue and list price being a darker shade of blue.
 
 <img width="560" alt="image" src="https://github.com/user-attachments/assets/51d08f20-cd84-4610-ae07-b24fa4e20591">
 
